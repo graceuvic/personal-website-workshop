@@ -2,6 +2,8 @@ import React from "react";
 import { HashRouter as Router, Routes, Route} from "react-router-dom";
 import NavigationBar from "./components/NavigationBar";
 import Home from "./components/Home";
+import About from "./components/About";
+import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import "./App.css";
 
@@ -15,8 +17,8 @@ const App = () => {
       <Routes>
 
         <Route path="/" element={<Home/>} />
-        <Route path="/about" element={<h1>About Page</h1>} />
-        <Route path="/experience" element={<h1>Experience Page</h1>} />
+        <Route path="/about" element={<About/>} />
+        <Route path="/experience" element={<Experience/>} />
         <Route path="/projects" element={<Projects/>} />
 
       </Routes>
