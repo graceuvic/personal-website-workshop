@@ -1,4 +1,5 @@
 import React from "react";
+import "./Experience.css";
 
 const Experience = () => {
 
@@ -27,17 +28,17 @@ const Experience = () => {
 
     return (
 
-        <div>
+        <div className="experience-container">
 
-            <div>
+            <div className="experience-content">
 
                 {experiences.map((exp, index) => (
 
-                    <div key={index}>
+                    <div key={index} className="experience-item">
                         <h2>
                             <strong>{exp.title}</strong> - {exp.company}
                         </h2>
-                        <h2>
+                        <h2 className="dates">
                             <em>{exp.dates}</em>
                         </h2>
                         <p>{exp.description}</p>

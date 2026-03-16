@@ -6,7 +6,6 @@ const About = () => {
     return (
         <div className="about-container">
             <div className="about-content">
-
                 <div className="about-image">
 
                     <img
@@ -58,6 +57,8 @@ const About = () => {
 
         </div>
 
-    )
+    );
 
-}
+};
+
+export default About;

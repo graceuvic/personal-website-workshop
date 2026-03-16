@@ -12,10 +12,10 @@ const Projects = () => {
             link: "link it to github project"
         },
         {
-            name: "project name",
-            description: "whatever",
-            tech: "what tech I used, aka python",
-            link: "link it to github project"
+            name: "Blogging System",
+            description: "Designed a system to post, edit, and/or delete posts for a blog in SENG265",
+            tech: "Python, CSS",
+            link: "https://github.com/graceuvic/Blogging-System-SENG265"
         },
         {
             name: "project name",
