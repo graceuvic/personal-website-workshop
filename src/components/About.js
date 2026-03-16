@@ -26,7 +26,7 @@ const About = () => {
 
                     <div className="social-links">
                         <a
-                            href="https://ca.linkedin.com/school/university-of-victoria/"
+                            href="www.linkedin.com/in/grace-mcdougall-9bb3022a8"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -34,19 +34,11 @@ const About = () => {
                         </a>
 
                         <a
-                            href="https://github.com/"
+                            href="https://github.com/graceuvic"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
                             Github
-                        </a>
-
-                        <a
-                            href="https://www.instagram.com/campuspeacock/?h1=en"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            Instagram
                         </a>
 
                     </div>
