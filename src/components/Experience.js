@@ -12,16 +12,16 @@ const Experience = () => {
             description: "whatever"
         },
         {
-            title: "job title",
-            company: "company name",
-            dates: "when I worked",
-            description: "whatever"
+            title: "Sales Associate",
+            company: "Mark's",
+            dates: "Jun 2022 - Aug 2025",
+            description: "Delivered friendly, efficient customer service in a fast-paced environment. Resolved customer issues using clear communication, critical thinking, and solution-oriented decision-making."
         },
         {
-            title: "job title",
-            company: "company name",
-            dates: "when I worked",
-            description: "whatever"
+            title: "Volunteer",
+            company: "Railway Museum of British Columbia",
+            dates: "Nov 2021 - Dec 2024",
+            description: "Supervised visitor activities and ensured a safe, engaging experience for diverse audiences. Assisted guests by answering questions and troubleshooting issues in a public-facing environment."
         }
 
     ];
