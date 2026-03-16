@@ -6,22 +6,21 @@ const Projects = () => {
     const projects = [
 
         {
-            name: "project name",
-            description: "whatever",
-            tech: "what tech I used, aka python",
-            link: "link it to github project"
+            name: "Weather App",
+            description: "A weather app built in a WECS workshop.",
+            tech: "Javascript, CSS, HTML, React",
+            link: "https://github.com/graceuvic/wecs-weather-app"
         },
         {
             name: "Blogging System",
-            description: "Designed a system to post, edit, and/or delete posts for a blog in SENG265",
+            description: "Designed a system to post, edit, and/or delete posts for a blog in SENG265.",
             tech: "Python, CSS",
             link: "https://github.com/graceuvic/Blogging-System-SENG265"
         },
         {
-            name: "project name",
-            description: "whatever",
-            tech: "what tech I used, aka python",
-            link: "link it to github project"
+            name: "Kiosk Concept Design",
+            description: "With me as team lead, my group successfully designed a functional, weather-resistant kiosk concept to meet the needs of the Ocean Networks Canada Project.",
+            tech: "what tech I used, aka python"
         }
     ];
 

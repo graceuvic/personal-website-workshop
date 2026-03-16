@@ -20,13 +20,13 @@ const About = () => {
                     <h2>Grace</h2>
                     <p>
 
-                        describe me
+                        I am a Second Year Computer Science Student at the University of Victoria, my degree concentration is in Graphics and Gaming. 
                         
                     </p>
 
                     <div className="social-links">
                         <a
-                            href="www.linkedin.com/in/grace-mcdougall-9bb3022a8"
+                            href="https://www.linkedin.com/in/grace-mcdougall-9bb3022a8/"
                             target="_blank"
                             rel="noopener noreferrer"
                         >

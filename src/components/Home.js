@@ -11,7 +11,7 @@ const Home = () => {
                 <h2> Welcome to my website</h2>
                 <p>
 
-                    write something about me
+                    I am passionate about testing and game design!
 
                 </p>
 
